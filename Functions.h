@@ -14,6 +14,7 @@ float ADD (float num1,float num2);
 
 //SUB Header - Sara
 
+float SUB (float num1,float num2);
 
 
 
