@@ -23,7 +23,7 @@ float ADD (float num1,float num2);
 
 
 // MUL Header  - Asmaa
-
+float Mult(float num1,float num2);
 
 
 

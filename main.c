@@ -6,12 +6,12 @@
 
 int main(void)
 {
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 	return 0;
 }
 
@@ -19,7 +19,7 @@ int main(void)
 
 float ADD (float num1,float num2)
 {
-	return num1 + num2;	
+	return num1 + num2;
 }
 
 
@@ -37,7 +37,10 @@ float ADD (float num1,float num2)
 
 // MUL Implementation  - Asmaa
 
-
+float Mult(float num1,float num2)
+{
+    return num1*num2;
+}
 
 
 
