@@ -7,7 +7,23 @@
 int main(void)
 {
 	
-	
+	float num1=0;
+	float num2=0;
+	float result=0;
+	printf("Enter the value of number 1 \n");
+	scanf("%d",&num1);
+	printf("Enter the value of number 2 \n");
+	scanf("%d",&num2);
+	result=ADD(num1,num2);
+	printf("the addition of the two numbers= %d \n",result);
+	result=SUB(num1,num2);
+	printf("the addition of the two numbers= %d \n",result);
+	result=MUL(num1,num2);
+	printf("the addition of the two numbers= %d \n",result);
+	result=DIV(num1,num2);
+	printf("the addition of the two numbers= %d \n",result);
+	result=MODULAS(num1,num2);
+	printf("the addition of the two numbers= %d \n",result);
 	
 	
 	
