@@ -61,3 +61,7 @@ float ADD (float num1,float num2)
 
 
 //Modulus Implementation   - Karim
+float MODULAS (float num1,float num2);
+{
+	return (num1%num2);	
+}
