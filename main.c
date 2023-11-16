@@ -27,7 +27,10 @@ float ADD (float num1,float num2)
 
 //SUB Implementation - Sara
 
-
+float SUB (float num1,float num2)
+{
+	return num1 - num2;	
+}
 
 
 
