@@ -24,10 +24,7 @@ int main(void)
 	printf("the addition of the two numbers= %d \n",result);
 	result=MODULAS(num1,num2);
 	printf("the addition of the two numbers= %d \n",result);
-	
-	
-	
-	
+
 	return 0;
 }
 
@@ -35,7 +32,7 @@ int main(void)
 
 float ADD (float num1,float num2)
 {
-	return num1 + num2;	
+	return num1 + num2;
 }
 
 
@@ -43,7 +40,10 @@ float ADD (float num1,float num2)
 
 //SUB Implementation - Sara
 
-
+float SUB (float num1,float num2)
+{
+	return num1 - num2;	
+}
 
 
 
@@ -53,7 +53,10 @@ float ADD (float num1,float num2)
 
 // MUL Implementation  - Asmaa
 
-
+float Mult(float num1,float num2)
+{
+    return num1*num2;
+}
 
 
 
@@ -87,3 +90,4 @@ float MODULAS (float num1,float num2);
 {
 	return (num1%num2);	
 }
+
