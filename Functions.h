@@ -48,3 +48,4 @@ float ADD (float num1,float num2);
 
 
 //Modulus Header   - Karim
+float MODULAS (float num1,float num2);
