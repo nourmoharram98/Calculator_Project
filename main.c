@@ -48,6 +48,12 @@ float ADD (float num1,float num2)
 
 
 //Divide Implementation  - Nour
+float DIV(float num1, float num2)
+{
+	float result=0;
+	result = num1/num2;
+	return result;
+}
 
 
 
