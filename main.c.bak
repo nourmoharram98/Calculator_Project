@@ -17,10 +17,12 @@ int main(void)
 
 //ADD Implementation - Moamen
 
-float ADD (float num1,float num2)
-{
-	return num1 + num2;	
-}
+
+
+
+
+
+
 
 
 
