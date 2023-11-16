@@ -36,19 +36,12 @@ float ADD (float num1,float num2)
 }
 
 
-
-
 //SUB Implementation - Sara
 
 float SUB (float num1,float num2)
 {
 	return num1 - num2;	
 }
-
-
-
-
-
 
 
 // MUL Implementation  - Asmaa
@@ -59,13 +52,6 @@ float Mult(float num1,float num2)
 }
 
 
-
-
-
-
-
-
-
 //Divide Implementation  - Nour
 float DIV(float num1, float num2)
 {
@@ -73,16 +59,6 @@ float DIV(float num1, float num2)
 	result = num1/num2;
 	return result;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 //Modulus Implementation   - Karim
