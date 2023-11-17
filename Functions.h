@@ -35,4 +35,4 @@ float DIV(float num1, float num2);
 
 
 //Modulus Header   - Karim
-float MODULAS (float num1,float num2);
+float MODULAS (int num1,int num2);
